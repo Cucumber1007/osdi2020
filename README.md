@@ -4,7 +4,7 @@
 
 | 學號 | GitHub 帳號 | 姓名 | Email |
 | --- | ----------- | --- | --- |
-|`0756110`| `csielee` | `李東霖` | lee097019@gmail.com |
+|`0516302`| `cucumber1007` | `黃政鈺` | rn100799@gmail.com |
 
 ## How to build
 
